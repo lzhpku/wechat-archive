@@ -2,6 +2,9 @@
 
 A Claude Code skill that archives WeChat public account articles from mp.weixin.qq.com URLs. This skill extracts article content and saves it as markdown files in Obsidian-compatible format for easy knowledge management.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue)](https://claude.ai/claude-code)
+
 ## Features
 
 - 📄 **Article Extraction**: Automatically scrapes WeChat articles from provided URLs
